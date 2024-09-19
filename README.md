@@ -48,3 +48,5 @@ php artisan migrate
 Start the Laravel development server to run your application locally.
 
 php artisan serve
+
+The backend server will be available via http://localhost:8000 url.
